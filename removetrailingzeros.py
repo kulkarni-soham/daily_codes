@@ -17,5 +17,7 @@ class Solution:
         number = int(num)
         while number%10 == 0:
             number = number//10
-        num = ''.join(str(number))
+        num = ''.join(str(number));
+        
         return num
+    
