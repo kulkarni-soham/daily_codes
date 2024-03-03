@@ -16,4 +16,4 @@ def detectCapital(word)->bool:
         
     return True 
 
-print(detectCapital("NEXABYTE"))
+print(detectCapital("NexaByte"))
