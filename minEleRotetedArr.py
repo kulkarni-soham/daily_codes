@@ -27,4 +27,4 @@ def findMin(nums) -> int:
         if nums[mid]<nums[right]:
             right=mid-1
             
-print(findMin([3,4,5,1]))
+print(findMin([3,4,5,1,2]))
