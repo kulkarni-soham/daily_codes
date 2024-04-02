@@ -1,5 +1,5 @@
 class Solution:
-    def longestCommonPrefix(self, strs) -> str:
+    def longestCommonPrefix(self, strs3) -> str:
         ans=""
         strs=sorted(strs)
         first=strs[0]
