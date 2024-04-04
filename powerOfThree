@@ -1,0 +1,14 @@
+def isPowerOfThree(n):
+    if n <= 0:
+        return False
+    
+    elif n == 1:
+        return True
+    
+    elif n%3 == 0:
+        return isPowerOfThree(n//3)
+    
+    else :
+        return False
+    
+print(isPowerOfThree(243))
