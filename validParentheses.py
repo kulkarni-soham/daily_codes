@@ -22,3 +22,5 @@ class Solution:
                 return False # 3
 
         return len(stack) == 0
+    
+print(Solution().isValid('{()}[]'))
