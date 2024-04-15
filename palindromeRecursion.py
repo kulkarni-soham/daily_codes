@@ -12,5 +12,5 @@ def isPalidrome(str, start, end, flag):
     
     return isPalidrome(str, start+1, end-1, flag)
     
-str = 'racecr'
+str = 'racecar'
 print(isPalidrome(str, 0, len(str)-1, True))
