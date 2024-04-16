@@ -8,4 +8,4 @@ class Solution:
         return False
     
 obj = Solution()
-print(obj.isPowerOfFour(64))
+print(obj.isPowerOfFour(256))
