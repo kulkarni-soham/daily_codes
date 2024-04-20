@@ -4,4 +4,4 @@ def concateArr(nums):
         nums.append(nums[i])
     return nums
 
-print(concateArr([1,3,4,2,1]))
+print(concateArr([1,3,4,2,2,1]))
