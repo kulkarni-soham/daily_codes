@@ -9,5 +9,4 @@ class buildArray {
             System.out.println(ans[i]);
         }
     }
-    
 }
