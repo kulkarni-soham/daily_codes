@@ -7,4 +7,4 @@ def toLowerCase( s) :
             low+=i
     return low
 
-print(toLowerCase("Hello"))
+print(toLowerCase("HelloMeow"))
