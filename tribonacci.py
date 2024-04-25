@@ -15,4 +15,4 @@ def tribonacci(n):
         
     return result
 
-print(tribonacci(3))
+print(tribonacci(5))
